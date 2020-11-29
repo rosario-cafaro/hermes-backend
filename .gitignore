@@ -1,0 +1,18 @@
+# IDE
+.idea/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Logs
+log/
+
+# Translations
+*.mo
+
+# Django stuff:
+static/
+
+# Env
+.env
